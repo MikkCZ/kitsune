@@ -166,6 +166,7 @@ elasticutils==0.10.3
 elasticsearch==1.2.0
 
 # sha256: 08GfJqajRinBjHdfWd_F3VlXZMcitXotpW6_tpuU5Ec
+# sha256: dYPYCsoqKyqKQR8UHE10TeBqa8Q6MiU_a4HRTUj2yQ4
 enum34==1.0.4
 
 # sha256: deTJeG7SjRnsf7UA88ciGm64d0jLxvXi7qykw9aPMMs
@@ -185,6 +186,7 @@ google-api-python-client==1.0
 https://github.com/html5lib/html5lib-python/archive/f5855f3d0ad6d4202e2b5d02626d85178ff6443a.tar.gz#egg=html5lib-python==0.95
 
 # sha256: OeqMam2fWVwXehYTT8SamQrY04J1jL9GnIZZZi8vUas
+# sha256: 4ifmf2dikwJfvtyggMcRRoXlWFfWB50V8ScE39oD3WI
 httplib2==0.9
 
 # sha256: GQQPAbOp2MY-TVeTb3hxCQgZm2k3CrRKD3QH3YkfAZs
@@ -215,6 +217,7 @@ oauthlib==0.7.2
 ordereddict==1.1
 
 # sha256: DxedfnXnyDtjQblZXKHzlN5wgUhKnjUq1m1VOhw9qik
+# sha256: 0duN_td1RwdgN9WJtZjgTyy8Gng109PxN78gyJlIVNU
 Pillow==2.9.0
 
 # sha256: xEI2gj62Insvq4vZ5WYypknmeoAhH4WkouPIXGXIrNk
