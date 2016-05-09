@@ -16,6 +16,11 @@ case $SUITE in
     django )
         scripts/travis/test.sh
         ;;
+    django-with-l10n )
+        scripts/clone-l10n.sh
+        scripts/compile-linted-mo.sh
+        scripts/travis/test.sh
+        ;;
     * )
         echo "Unknown test suite '$SUITE'."
         exit 1

@@ -13,6 +13,7 @@ env:
   - TEST_SUITE=ui
   - TEST_SUITE=ui MARK_EXPRESSION=smoke
   - TEST_SUITE=django
+  - TEST_SUITE=django-with-l10n
 matrix:
   fast_finish: true
   allow_failures:
