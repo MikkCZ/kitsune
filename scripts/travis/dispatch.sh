@@ -17,7 +17,6 @@ case $SUITE in
         scripts/travis/test.sh
         ;;
     django-with-l10n )
-        scripts/clone-l10n.sh
         scripts/compile-linted-mo.sh
         scripts/travis/test.sh
         ;;
